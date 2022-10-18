@@ -2,7 +2,7 @@
 
 *멋쟁이 사자처럼 AIS7 실습
 
-<img src= "(https://cdn.shopify.com/s/files/1/0537/7441/8092/products/IMG_2985_1440x.png?v=1643286249)">
+<img src= "https://cdn.shopify.com/s/files/1/0537/7441/8092/products/IMG_2985_1440x.png?v=1643286249">
 
 # 제목 1
 * 내용 1
