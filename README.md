@@ -7,6 +7,7 @@
 ```python
 print("hello")
 ```
+이미지 출처:https://pokegomarket9.com/products/shiny-ditto-trade
 
 # 제목 1
 * 내용 1
