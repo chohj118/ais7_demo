@@ -2,11 +2,13 @@
 
 *멋쟁이 사자처럼 AIS7 실습
 
+<img src="https://play.google.com/store/apps/details?id=com.github.android&hl=en_US&gl=US">
+
 # 제목 1
 * 내용 1
 * 내용 2
 * 내용 3
-* 
+
 ## 제목 2
 1. 실습 순서
 2. 깃헙 계정만들기
