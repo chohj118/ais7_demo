@@ -4,6 +4,10 @@
 
 <img src= "https://cdn.shopify.com/s/files/1/0537/7441/8092/products/IMG_2985_1440x.png?v=1643286249"  width = "300"  height = "200">
 
+```python
+print("hello")
+```
+
 # 제목 1
 * 내용 1
 * 내용 2
