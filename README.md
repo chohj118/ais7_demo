@@ -2,7 +2,7 @@
 
 *멋쟁이 사자처럼 AIS7 실습
 
-<img src="[https://play.google.com/store/apps/details?id=com.github.android&hl=en_US&gl=US](https://velog.velcdn.com/images/gil0127/post/857b454c-74a1-4fbc-b00f-3d0aff6f1a55/111111111.png](https://avatars.githubusercontent.com/u/9919?s=200&v=4)">
+<img src="https://play.google.com/store/apps/details?id=com.github.android&hl=en_US&gl=US](https://velog.velcdn.com/images/gil0127/post/857b454c-74a1-4fbc-b00f-3d0aff6f1a55/111111111.png">
 
 # 제목 1
 * 내용 1
